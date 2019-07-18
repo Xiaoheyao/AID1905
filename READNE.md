@@ -1,9 +1,6 @@
-#
+#GIT项目
 
 
-# .gitignore
-.ida
-F法法
 ##数据结构
 
 ##IO网络
